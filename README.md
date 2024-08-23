@@ -5,9 +5,12 @@ A simple application that interfaces with OpenAI, which can give responses to st
 
 ### Preview of program output:
 
-\*Question to the chatbot\*
+```console
+Ask your question:
+Hi there! 
+Hello, how can I assist you today?
+```
 
-\*Chatbot's answer\*
 
 
 ## Pseudocode
