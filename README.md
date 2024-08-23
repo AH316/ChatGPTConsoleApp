@@ -1,7 +1,7 @@
 # Project Name: OpenAI Console App
 
 ## Description 
-The application interfaces with OpenAI, which can give responses to strings sent to it via the console and the chatbot outputs it back to the console.
+A simple application that interfaces with OpenAI, which can give responses to strings sent to it via the console and the chatbot outputs it back to the console.
 
 ### Preview of program output:
 
