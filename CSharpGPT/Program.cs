@@ -9,7 +9,7 @@ namespace OpenAIAPP
     {
         public static async Task Main(string[] args)
         {            
-            string apiKey = "";
+            string apiKey = "key to be added";
             OpenAIClient client = new OpenAIClient(apiKey);         // Initialize the OpenAI client with the API key
 
             Console.WriteLine("Ask your question: ");
